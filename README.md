@@ -1,5 +1,5 @@
 # calendarJS
-A Calendar picker for JS vanilla, without need of any framework (v.1.0 for now, only in Spanish)
+An Calendar picker for JS vanilla, without need of any framework (v.1.0 for now, only in Spanish)
 ## Introducción
 Proyecto de un fin de semana que consiste en la implementación de un calendario dinamico en las paginas webs sin la utilización de HTML5, compatible con la gran mayoria de navegadores (No prometo nada para IE6 xD), que dispone de selector de dias para elegir el que el usuario quiera, asi que tambien, la posibilidad de ir pasando los meses para elegir otra fecha.
 ## ¿Como lo implemento en mi web?
