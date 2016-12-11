@@ -1,0 +1,46 @@
+.tabla
+{
+	width:250px;
+	height: 250px;
+	margin: auto;
+}
+.tabla tr td
+{
+	border: solid 1px black;
+}
+.tabla tr th
+{
+	border: solid 2px black;
+	padding: 5px;
+}
+h3
+{
+	display: inline-block;
+	width:150px;
+}
+#calendario
+{
+	position: absolute;
+    width: 295px;
+    height: 305px;
+	border: solid 2px black;
+	box-shadow: 3px 3px 12px black;
+	border-radius: 5px;
+	background: linear-gradient(to top,orange,darkorange);
+}
+.control
+{
+	text-align: center;
+}
+.control button
+{
+	border: solid 2px black;
+    font-weight: bold;
+    background-color: orange;
+    cursor: pointer;
+}
+/* Control Input */
+.calendar
+{
+	background-color: orange;
+}
